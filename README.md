@@ -18,19 +18,16 @@ html, body {
     padding: 5px;
     width:200px;
 }
+img {
+  display: block;
+  margin: 0 auto;
+}
 </style>
 
-<div class="container">
-  <div class="content">
-    ![Alt Text](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
-  </div>
+<div align="center">
+    <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
 </div>
 
-<div class="container">
-  <div class="content">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=WoodyMas&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-  </div>
-</div>
 
 <!-- ![Alt Text](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif) -->
 
