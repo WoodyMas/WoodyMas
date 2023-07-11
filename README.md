@@ -1,7 +1,5 @@
 <div align="center">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=woodymas&&show_icons=true&theme=tokyonight">
 <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif">
-<!--        <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="coding-gif"> -->
 </div>
 
 
